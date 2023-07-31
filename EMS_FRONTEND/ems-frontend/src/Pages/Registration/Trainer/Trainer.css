@@ -1,0 +1,17 @@
+.trainerForm{
+    padding-left: 15%;
+    padding-right: 15%;
+    
+    
+}
+.trainer-registration{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-right: 20%;
+    margin-left: 20%;
+    padding-bottom: 3%;
+    margin-top: 2%;
+    padding-top: 1%;
+}
+.trainerButton{
+    margin-top: 3%;
+}

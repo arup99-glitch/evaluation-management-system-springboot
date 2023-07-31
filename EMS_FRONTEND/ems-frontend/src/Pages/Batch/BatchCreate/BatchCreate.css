@@ -1,0 +1,25 @@
+.batchCreateForm{
+    margin-top: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.batchCreate{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 45%;
+    padding-top: 3%;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 4%;
+    justify-content: center;
+    align-items: center;
+  
+}
+.titleName{
+    font-weight: 700;
+}
+
+.createBatchButton{
+    margin-top: 2%;
+    
+}

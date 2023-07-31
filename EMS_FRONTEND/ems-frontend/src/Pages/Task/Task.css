@@ -1,0 +1,51 @@
+.taskCreate{
+    margin-top: 4%;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+   
+}
+.taskCreateForm{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding-top: 2%;
+    padding-bottom: 3%;   
+   
+
+}
+.taskCreateButton{
+    margin-top: 2%;
+}
+.taskFormBody{
+    margin-left: -35%;
+    margin-right: -35%;
+}
+.createTaskTitle{
+    margin-left: -35%;
+    padding-bottom: 3%;
+}
+.allTaskBody{
+    margin-top: 2%;
+    
+    padding-bottom: 2%;
+}
+.allTaskBody h6{
+    padding-bottom: 1.5%;
+}
+.taskSubmitButton{
+    margin-right: 1%;
+}
+.submitTask{
+    width: 100%;
+    height: 100%;
+    padding: 1;
+    
+}
+.taskBody{
+    padding-top: 1%;
+}
+.buttonTask{
+    
+}
+.taskRow{
+    display: grid;
+}

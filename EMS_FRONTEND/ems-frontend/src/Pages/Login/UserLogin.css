@@ -1,0 +1,17 @@
+.loginForm{
+    padding-left: 1%;
+    padding-right: 1%;
+    
+    
+}
+.loginPatrent{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-right: 30%;
+    margin-left: 30%;
+    padding-bottom: 3%;
+    margin-top: 6%;
+    padding-top: 1%;
+}
+.loginButton{
+    margin-top: 3%;
+}

@@ -1,0 +1,10 @@
+.finalScoreForm{
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(255, 255, 255);
+    padding: 20px;
+    background-color: rgb(253, 253, 253);
+}
+.finalScoreButton{
+    margin-top: 1%;
+}
