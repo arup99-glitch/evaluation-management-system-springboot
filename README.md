@@ -24,18 +24,29 @@ This project demonstrates the implementation  using Spring Boot, JSON Web Tokens
 * Trainer can evaluation marks under batch and based on submission
 * There are 5 types of evaluatuion.
    1.Daily Task
+  
    2.Mini Project
+  
    3.Mid Project
+  
    4.Final project
+  
    5.Manager Evaluation
+  
    6.CEO Evaluation
+  
 *Then Trainer can generate Final Score of each batch.
+
 *Trainee also view task.
+
 *Trainee also submit task.
+
 *Trainee,Trainer view all marks.
+
 *Trainee,Trainee can saw each profile.
+
 *Trainee,Trainer update their profile.
-*
+
 
 <br>
 
